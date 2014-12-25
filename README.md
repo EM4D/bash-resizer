@@ -27,7 +27,7 @@ Then it resizes source image into every output size, applying a signature. For b
 
 Tested in Ubuntu and Mac OS X. 
 
-**How to use: **
+**How to use:**
 
 * save **resize.sh** to any folder on your computer.
 * (optionally) edit the file and set default values for variables.
